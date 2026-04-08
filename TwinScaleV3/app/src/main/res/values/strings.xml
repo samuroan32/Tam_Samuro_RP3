@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwinScaleV3</string>
+    <string name="notification_channel_name">TwinScale Chat</string>
+    <string name="notification_channel_desc">Chat and room updates</string>
+</resources>
